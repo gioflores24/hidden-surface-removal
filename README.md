@@ -5,36 +5,13 @@
 
 
 
-* 9 (number of vertices + 1 for the homogeneous coordinates)
-* vertices //(x,y,z)
-  * 0.5, -0.5,  0.5 (vertex 1)
-  * 0.5,  0.5,  0.5 
-  * -0.5,  0.5,  0.5   
-  * -0.5, -0.5,  0.5   
-  *  0.5, -0.5, -0.5   
-  * -0.5, -0.5, -0.5   
-  * -0.5,  0.5, -0.5   
-  *  0.5,  0.5, -0.5   
+* (number of vertices + 1 for the homogeneous coordinates)
+* vertices 
+     * x, y, z
 * edges
-  * 0, 1
-  * 1, 2
-  * 2, 3
-  * 3, 0
-  * 4, 5
-  * 5, 6
-  * 6, 7
-  * 7, 4
-  * 0, 4
-  * 1, 7
-  * 2, 6
-  * 3, 5
+  * v, w
 * faces
-  * 0, 1, 2, 3
-  * 4, 5, 6, 7
-  * 0, 4, 7, 1
-  * 3, 2, 6, 5
-  * 5, 4, 0, 3
-  * 1, 7, 6, 2
+  * vertex1, vertex2, vertex3, vertex4...
 
 
 An example is provided in this repository: 
