@@ -37,7 +37,8 @@
   * 1, 7, 6, 2
 
 
-An example is provided in this repository. 
+An example is provided in this repository: 
+* (https://github.com/gioflores24/hidden-surface-removal/tree/master/cube.txt)
 
 ---------------------------
 
