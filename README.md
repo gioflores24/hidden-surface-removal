@@ -45,6 +45,6 @@ After creating the .txt file, you need to load it by pressing "Read File" in the
 
 Image displayed here:
 
-* ![picture alt] (https://github.com/gioflores24/hidden-surface-removal/tree/master/assets/images/gui.png)
+* (https://github.com/gioflores24/hidden-surface-removal/tree/master/assets/images/gui.png)
 
 
